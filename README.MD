@@ -1,1 +1,1 @@
-for my own IPTV M3U
+for my own TV M3U
