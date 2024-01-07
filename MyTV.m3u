@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1,NBA TV
+http://38.96.178.201/live/NBA/index.m3u80
+#EXTINF:-1,NBA TV 2
+http://41.205.93.154:80/NBA/index.m3u8
+#EXTINF:-1,纬来体育
+http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
+#EXTINF:-1,ELTA体育 2
+http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
+#EXTINF:-1,博斯运动 1
+http://198.16.100.90:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421
+#EXTINF:-1,博斯运动 2
+http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=ME9E7698135376981353&ct=19249&tsum=9eadcc8585f74357f09f1465844024c9
+#EXTINF:-1,CCTV 5
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+#EXTINF:-1,CCTV 5+
+http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228277/index.m3u8
+#EXTINF:-1,CCTV 风云足球
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
+#EXTINF:-1,CCTV 1
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1,ESPN HD
+http://38.96.178.201:80/live/ESPNHD/index.m3u8
+#EXTINF:-1,ESPN 2
+http://38.96.178.201:80/live/ESPN2/index.m3u8
+#EXTINF:-1,ESPN News
+http://38.96.178.201:80/live/ESPNews/index.m3u8
+#EXTINF:-1,Sky News Australia
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1,Sky Sport
+https://donelfantastic.github.io/live/skysportsNz8.m3u8
+#EXTINF:-1,Sky Sport 1
+https://donelfantastic.github.io/live/skysportsNz1.m3u8
+#EXTINF:-1,Sky Sport 2
+https://donelfantastic.github.io/live/skysportsNz2.m3u8
+#EXTINF:-1,Sky Sport 3
+https://donelfantastic.github.io/live/skysportsNz3.m3u8
+#EXTINF:-1,Sky Sport 4
+https://donelfantastic.github.io/live/skysportsNz4.m3u8
+#EXTINF:-1,Sky Sport 5
+https://donelfantastic.github.io/live/skysportsNz5.m3u8
+#EXTINF:-1,Sky Sport 6
+https://donelfantastic.github.io/live/skysportsNz6.m3u8
+#EXTINF:-1,Sky Sport 7
+https://donelfantastic.github.io/live/skysportsNz7.m3u8
+#EXTINF:-1,Sky Sport 8
+https://donelfantastic.github.io/live/skysportsNz8.m3u8
+#EXTINF:-1,Sky Sport 9
+https://donelfantastic.github.io/live/skysportsNz9.m3u8
+#EXTINF:-1,Sky Sports
+https://hls.streambtw.com/live/stream_1.m3u8
+#EXTINF:-1,Fox Sports 2
+http://38.96.178.201:80/live/FOXSPORTS2/index.m3u8
+#EXTINF:-1,Disney
+http://38.96.178.201:80/live/Disney/index.m3u8
+#EXTINF:-1,Disney XD
+http://38.96.178.201:80/live/DisneyXD/index.m3u8
+#EXTINF:-1,Discovery
+http://38.96.178.201:80/live/Discovery/index.m3u8
+#EXTINF:-1,Discovery Asis
+http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=MB1B4014431840144318&ct=19254&tsum=a72e8caa6986ef92c4d6cb743e22a78f
+#EXTINF:-1,MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1,Real Madrid TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1545
+#EXTINF:-1,香港翡翠台
+https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
