@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,NBA TV
 http://38.96.178.201/live/NBA/index.m3u8
+#EXTINF:-1,TNT Sports 1
+https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
 #EXTINF:-1,纬来体育
 http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
 #EXTINF:-1,ELTA体育 2
